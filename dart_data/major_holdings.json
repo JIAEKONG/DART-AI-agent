@@ -1,0 +1,849 @@
+{
+  "AK홀딩스": [
+    {
+      "repror": "채형석",
+      "stkqy": "8,645,448",
+      "stkrt": "65.26",
+      "rcept_dt": "2024-11-27",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20241127000044"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,645,448",
+      "stkrt": "65.26",
+      "rcept_dt": "2024-12-04",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20241204000332"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,645,448",
+      "stkrt": "65.26",
+      "rcept_dt": "2024-12-30",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20241230000401"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,645,448",
+      "stkrt": "65.26",
+      "rcept_dt": "2025-02-25",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20250225004888"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,645,448",
+      "stkrt": "65.26",
+      "rcept_dt": "2025-03-19",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20250319000850"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,645,598",
+      "stkrt": "65.26",
+      "rcept_dt": "2025-03-27",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20250327001236"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,642,172",
+      "stkrt": "65.24",
+      "rcept_dt": "2025-03-31",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20250331002843"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,643,137",
+      "stkrt": "65.24",
+      "rcept_dt": "2025-09-04",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20250904000274"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,643,137",
+      "stkrt": "65.24",
+      "rcept_dt": "2026-01-16",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20260116000141"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,642,757",
+      "stkrt": "65.24",
+      "rcept_dt": "2026-03-19",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20260319000518"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,640,448",
+      "stkrt": "65.22",
+      "rcept_dt": "2026-04-02",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20260402002654"
+      }
+    },
+    {
+      "repror": "채형석",
+      "stkqy": "8,640,448",
+      "stkrt": "65.22",
+      "rcept_dt": "2026-09-07",
+      "_source": {
+        "corp_code": "00125080",
+        "rcept_no": "20260907000283"
+      }
+    }
+  ],
+  "BGF": [
+    {
+      "repror": "홍석조",
+      "stkqy": "66,745,077",
+      "stkrt": "69.73",
+      "rcept_dt": "2024-12-06",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20241206000368"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,745,077",
+      "stkrt": "69.73",
+      "rcept_dt": "2025-03-05",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20250305000666"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,738,436",
+      "stkrt": "69.72",
+      "rcept_dt": "2025-03-12",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20250312001037"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,745,077",
+      "stkrt": "69.73",
+      "rcept_dt": "2025-04-02",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20250402002703"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,745,077",
+      "stkrt": "69.73",
+      "rcept_dt": "2025-04-23",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20250423000508"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,745,077",
+      "stkrt": "69.73",
+      "rcept_dt": "2025-06-17",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20250617000265"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,734,221",
+      "stkrt": "69.72",
+      "rcept_dt": "2025-12-05",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20251205000411"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,734,221",
+      "stkrt": "69.72",
+      "rcept_dt": "2025-12-15",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20251215000406"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,730,783",
+      "stkrt": "69.72",
+      "rcept_dt": "2026-01-08",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20260108000524"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,730,783",
+      "stkrt": "69.72",
+      "rcept_dt": "2026-03-09",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20260309001630"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,731,783",
+      "stkrt": "69.72",
+      "rcept_dt": "2026-04-01",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20260401004683"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "66,731,783",
+      "stkrt": "69.72",
+      "rcept_dt": "2026-04-16",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20260416000463"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "65,710,571",
+      "stkrt": "68.65",
+      "rcept_dt": "2026-06-17",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20260617000416"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "65,710,571",
+      "stkrt": "68.65",
+      "rcept_dt": "2026-08-10",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20260810000465"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "65,710,571",
+      "stkrt": "68.65",
+      "rcept_dt": "2026-08-28",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20260828001446"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "65,710,571",
+      "stkrt": "68.65",
+      "rcept_dt": "2026-09-10",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20260910000530"
+      }
+    },
+    {
+      "repror": "홍석조",
+      "stkqy": "65,710,571",
+      "stkrt": "68.65",
+      "rcept_dt": "2026-11-09",
+      "_source": {
+        "corp_code": "00219097",
+        "rcept_no": "20261109000238"
+      }
+    }
+  ],
+  "BGF리테일": [
+    {
+      "repror": "BGF",
+      "stkqy": "9,039,377",
+      "stkrt": "52.30",
+      "rcept_dt": "2024-12-06",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20241206000374"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "9,039,377",
+      "stkrt": "52.30",
+      "rcept_dt": "2025-02-04",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20250204000388"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "9,035,819",
+      "stkrt": "52.28",
+      "rcept_dt": "2025-03-12",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20250312001095"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "1,428,871",
+      "stkrt": "8.27",
+      "rcept_dt": "2025-04-01",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20250401004157"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "9,039,377",
+      "stkrt": "52.30",
+      "rcept_dt": "2025-04-02",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20250402002700"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "9,039,377",
+      "stkrt": "52.30",
+      "rcept_dt": "2025-04-23",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20250423000495"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "1,609,652",
+      "stkrt": "9.31",
+      "rcept_dt": "2025-07-02",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20250702000092"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "9,039,377",
+      "stkrt": "52.30",
+      "rcept_dt": "2025-07-23",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20250723000240"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,879,377",
+      "stkrt": "51.37",
+      "rcept_dt": "2025-09-18",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20250918000284"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,879,377",
+      "stkrt": "51.37",
+      "rcept_dt": "2025-10-23",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20251023000244"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,877,574",
+      "stkrt": "51.36",
+      "rcept_dt": "2025-12-05",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20251205000412"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,875,733",
+      "stkrt": "51.35",
+      "rcept_dt": "2026-01-08",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260108000510"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,875,733",
+      "stkrt": "51.35",
+      "rcept_dt": "2026-01-22",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260122000347"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,689,885",
+      "stkrt": "50.28",
+      "rcept_dt": "2026-03-05",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260305001209"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,689,985",
+      "stkrt": "50.28",
+      "rcept_dt": "2026-04-01",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260401004615"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "1,436,670",
+      "stkrt": "8.31",
+      "rcept_dt": "2026-04-01",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260401004250"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,510,829",
+      "stkrt": "49.24",
+      "rcept_dt": "2026-05-29",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260529001530"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,033,298",
+      "stkrt": "46.48",
+      "rcept_dt": "2026-06-23",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260623000284"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "8,033,298",
+      "stkrt": "46.48",
+      "rcept_dt": "2026-08-10",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260810000444"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "7,887,253",
+      "stkrt": "45.63",
+      "rcept_dt": "2026-09-10",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20260910000507"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "1,609,778",
+      "stkrt": "9.31",
+      "rcept_dt": "2026-10-02",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20261002000496"
+      }
+    },
+    {
+      "repror": "BGF",
+      "stkqy": "7,887,253",
+      "stkrt": "45.63",
+      "rcept_dt": "2026-11-09",
+      "_source": {
+        "corp_code": "01263022",
+        "rcept_no": "20261109000275"
+      }
+    }
+  ],
+  "BNK금융지주": [
+    {
+      "repror": "TheCapitalGroupCompanies,Inc.",
+      "stkqy": "16,162,519",
+      "stkrt": "5.08",
+      "rcept_dt": "2025-03-10",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20250310000256"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "30,867,701",
+      "stkrt": "9.63",
+      "rcept_dt": "2025-04-01",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20250401004018"
+      }
+    },
+    {
+      "repror": "TheCapitalGroupCompanies,Inc.",
+      "stkqy": "12,537,272",
+      "stkrt": "3.94",
+      "rcept_dt": "2025-05-12",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20250512000200"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "27,270,434",
+      "stkrt": "8.57",
+      "rcept_dt": "2025-07-02",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20250702000128"
+      }
+    },
+    {
+      "repror": "TheCapitalGroupCompanies,Inc.",
+      "stkqy": "16,061,299",
+      "stkrt": "5.04",
+      "rcept_dt": "2025-08-05",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20250805000296"
+      }
+    },
+    {
+      "repror": "TheCapitalGroupCompanies,Inc.",
+      "stkqy": "0",
+      "stkrt": "0.00",
+      "rcept_dt": "2025-10-14",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20251014000020"
+      }
+    },
+    {
+      "repror": "CapitalResearchandManagementCompany",
+      "stkqy": "17,619,662",
+      "stkrt": "5.60",
+      "rcept_dt": "2025-10-14",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20251014000113"
+      }
+    },
+    {
+      "repror": "CapitalResearchandManagementCompany",
+      "stkqy": "25,001,687",
+      "stkrt": "8.06",
+      "rcept_dt": "2026-03-06",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20260306000193"
+      }
+    },
+    {
+      "repror": "CapitalResearchandManagementCompany",
+      "stkqy": "18,926,532",
+      "stkrt": "6.10",
+      "rcept_dt": "2026-05-07",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20260507000611"
+      }
+    },
+    {
+      "repror": "오케이저축은행",
+      "stkqy": "16,050,189",
+      "stkrt": "5.17",
+      "rcept_dt": "2026-05-19",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20260519000247"
+      }
+    },
+    {
+      "repror": "CapitalResearchandManagementCompany",
+      "stkqy": "15,649,526",
+      "stkrt": "5.04",
+      "rcept_dt": "2026-06-09",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20260609000076"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "23,477,020",
+      "stkrt": "7.57",
+      "rcept_dt": "2026-07-01",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20260701000287"
+      }
+    },
+    {
+      "repror": "오케이저축은행",
+      "stkqy": "0",
+      "stkrt": "0",
+      "rcept_dt": "2026-08-06",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20260806000531"
+      }
+    },
+    {
+      "repror": "오케이홀딩스",
+      "stkqy": "20,124,525",
+      "stkrt": "6.48",
+      "rcept_dt": "2026-08-06",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20260806000536"
+      }
+    },
+    {
+      "repror": "CapitalResearchandManagementCompany",
+      "stkqy": "10,180,281",
+      "stkrt": "3.32",
+      "rcept_dt": "2026-10-08",
+      "_source": {
+        "corp_code": "00858364",
+        "rcept_no": "20261008000065"
+      }
+    }
+  ],
+  "BYC": [
+    {
+      "repror": "트러스톤자산운용",
+      "stkqy": "445,590",
+      "stkrt": "7.13",
+      "rcept_dt": "2025-11-21",
+      "_source": {
+        "corp_code": "00122579",
+        "rcept_no": "20251121000425"
+      }
+    },
+    {
+      "repror": "트러스톤자산운용",
+      "stkqy": "334,043",
+      "stkrt": "5.35",
+      "rcept_dt": "2026-02-26",
+      "_source": {
+        "corp_code": "00122579",
+        "rcept_no": "20260226005267"
+      }
+    },
+    {
+      "repror": "한승홀딩스",
+      "stkqy": "4,451,139",
+      "stkrt": "71.26",
+      "rcept_dt": "2026-06-11",
+      "_source": {
+        "corp_code": "00122579",
+        "rcept_no": "20260611000310"
+      }
+    },
+    {
+      "repror": "한승홀딩스",
+      "stkqy": "4,279,510",
+      "stkrt": "68.51",
+      "rcept_dt": "2026-06-11",
+      "_source": {
+        "corp_code": "00122579",
+        "rcept_no": "20260611000307"
+      }
+    },
+    {
+      "repror": "한승홀딩스",
+      "stkqy": "4,516,055",
+      "stkrt": "72.30",
+      "rcept_dt": "2026-06-11",
+      "_source": {
+        "corp_code": "00122579",
+        "rcept_no": "20260611000313"
+      }
+    }
+  ],
+  "CJ": [
+    {
+      "repror": "국민연금공단",
+      "stkqy": "3,803,261",
+      "stkrt": "13.04",
+      "rcept_dt": "2025-07-02",
+      "_source": {
+        "corp_code": "00148540",
+        "rcept_no": "20250702000228"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "3,453,585",
+      "stkrt": "11.84",
+      "rcept_dt": "2026-10-02",
+      "_source": {
+        "corp_code": "00148540",
+        "rcept_no": "20261002000466"
+      }
+    }
+  ],
+  "CJ CGV": [
+    {
+      "repror": "CJ",
+      "stkqy": "84,284,313",
+      "stkrt": "50.90",
+      "rcept_dt": "2025-04-01",
+      "_source": {
+        "corp_code": "00303873",
+        "rcept_no": "20250401004260"
+      }
+    },
+    {
+      "repror": "미래에셋증권",
+      "stkqy": "11,646,959",
+      "stkrt": "6.60",
+      "rcept_dt": "2026-08-06",
+      "_source": {
+        "corp_code": "00303873",
+        "rcept_no": "20260806000337"
+      }
+    }
+  ],
+  "CJ대한통운": [
+    {
+      "repror": "국민연금공단",
+      "stkqy": "2,604,237",
+      "stkrt": "11.42",
+      "rcept_dt": "2025-03-04",
+      "_source": {
+        "corp_code": "00113410",
+        "rcept_no": "20250304000604"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "2,356,547",
+      "stkrt": "10.33",
+      "rcept_dt": "2025-09-01",
+      "_source": {
+        "corp_code": "00113410",
+        "rcept_no": "20250901000362"
+      }
+    },
+    {
+      "repror": "NorgesBank",
+      "stkqy": "1,152,882",
+      "stkrt": "5.05",
+      "rcept_dt": "2026-01-15",
+      "_source": {
+        "corp_code": "00113410",
+        "rcept_no": "20260115000159"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "2,858,569",
+      "stkrt": "12.53",
+      "rcept_dt": "2026-03-03",
+      "_source": {
+        "corp_code": "00113410",
+        "rcept_no": "20260303002495"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "2,624,553",
+      "stkrt": "11.50",
+      "rcept_dt": "2026-04-01",
+      "_source": {
+        "corp_code": "00113410",
+        "rcept_no": "20260401001920"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "2,393,556",
+      "stkrt": "10.49",
+      "rcept_dt": "2026-05-06",
+      "_source": {
+        "corp_code": "00113410",
+        "rcept_no": "20260506000268"
+      }
+    },
+    {
+      "repror": "NorgesBank",
+      "stkqy": "1,404,168",
+      "stkrt": "6.16",
+      "rcept_dt": "2026-05-07",
+      "_source": {
+        "corp_code": "00113410",
+        "rcept_no": "20260507000158"
+      }
+    },
+    {
+      "repror": "국민연금공단",
+      "stkqy": "2,163,715",
+      "stkrt": "9.48",
+      "rcept_dt": "2026-06-01",
+      "_source": {
+        "corp_code": "00113410",
+        "rcept_no": "20260601001331"
+      }
+    }
+  ],
+  "CJ씨푸드": []
+}

@@ -1,0 +1,4964 @@
+{
+  "AK홀딩스": [
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240321001157"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240321001157"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240321001157"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240321001157"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002109"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002109"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002109"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002109"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002751"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002751"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002751"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002751"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002353"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002353"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002353"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002353"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001263"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001263"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001263"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001263"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003745"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003745"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003745"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003745"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240514001362"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240514001362"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240514001362"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240514001362"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001915"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001915"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001915"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001915"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001489"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001489"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001489"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001489"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004221"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004221"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004221"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004221"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002659"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002659"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002659"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002659"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002655"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002655"
+      }
+    },
+    {
+      "istc_totqy": "13,247,561",
+      "tesstk_co": "202,066",
+      "distb_stock_co": "13,045,495",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002655"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002655"
+      }
+    }
+  ],
+  "BGF": [
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003440"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003440"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003440"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003440"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003410"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003410"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003410"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003410"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003379"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003379"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003379"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003379"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003419"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003419"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003419"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003419"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001407"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001407"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001407"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001407"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002686"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002686"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002686"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002686"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001626"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001626"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001626"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001626"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002453"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002453"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002453"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002453"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000777"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000777"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000777"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000777"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003441"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003441"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003441"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003441"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001898"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001898"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001898"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001898"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001758"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001758"
+      }
+    },
+    {
+      "istc_totqy": "95,716,791",
+      "tesstk_co": "8,025",
+      "distb_stock_co": "95,708,766",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001758"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001758"
+      }
+    }
+  ],
+  "BGF리테일": [
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003349"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003349"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003349"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003349"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003272"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003272"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003272"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003272"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003218"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003218"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003218"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003218"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003317"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003317"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003317"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003317"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318000733"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318000733"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318000733"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318000733"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002592"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002592"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002592"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002592"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001498"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001498"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001498"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001498"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002321"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002321"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002321"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002321"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000829"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000829"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000829"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000829"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814002458"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814002458"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814002458"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814002458"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001820"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001820"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001820"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001820"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001662"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001662"
+      }
+    },
+    {
+      "istc_totqy": "17,283,906",
+      "tesstk_co": "8,891",
+      "distb_stock_co": "17,275,015",
+      "se": "합계",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001662"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001662"
+      }
+    }
+  ],
+  "BNK금융지주": [
+    {
+      "istc_totqy": "322,088,438",
+      "tesstk_co": "-",
+      "distb_stock_co": "322,088,438",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001564"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001564"
+      }
+    },
+    {
+      "istc_totqy": "322,088,438",
+      "tesstk_co": "-",
+      "distb_stock_co": "322,088,438",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001564"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001564"
+      }
+    },
+    {
+      "istc_totqy": "325,935,246",
+      "tesstk_co": "3,846,808",
+      "distb_stock_co": "322,088,438",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20231114001681"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20231114001681"
+      }
+    },
+    {
+      "istc_totqy": "325,935,246",
+      "tesstk_co": "3,846,808",
+      "distb_stock_co": "322,088,438",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20231114001681"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20231114001681"
+      }
+    },
+    {
+      "istc_totqy": "325,935,246",
+      "tesstk_co": "3,846,808",
+      "distb_stock_co": "322,088,438",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002799"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002799"
+      }
+    },
+    {
+      "istc_totqy": "325,935,246",
+      "tesstk_co": "3,846,808",
+      "distb_stock_co": "322,088,438",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002799"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002799"
+      }
+    },
+    {
+      "istc_totqy": "322,088,438",
+      "tesstk_co": "-",
+      "distb_stock_co": "322,088,438",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002098"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002098"
+      }
+    },
+    {
+      "istc_totqy": "322,088,438",
+      "tesstk_co": "-",
+      "distb_stock_co": "322,088,438",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002098"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002098"
+      }
+    },
+    {
+      "istc_totqy": "320,436,727",
+      "tesstk_co": "2,053,208",
+      "distb_stock_co": "318,383,519",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001176"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001176"
+      }
+    },
+    {
+      "istc_totqy": "320,436,727",
+      "tesstk_co": "2,053,208",
+      "distb_stock_co": "318,383,519",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001176"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001176"
+      }
+    },
+    {
+      "istc_totqy": "322,088,438",
+      "tesstk_co": "1,651,711",
+      "distb_stock_co": "320,436,727",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814004056"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814004056"
+      }
+    },
+    {
+      "istc_totqy": "322,088,438",
+      "tesstk_co": "1,651,711",
+      "distb_stock_co": "320,436,727",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814004056"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814004056"
+      }
+    },
+    {
+      "istc_totqy": "322,088,438",
+      "tesstk_co": "1,651,174",
+      "distb_stock_co": "320,437,264",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001809"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001809"
+      }
+    },
+    {
+      "istc_totqy": "322,088,438",
+      "tesstk_co": "1,651,174",
+      "distb_stock_co": "320,437,264",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001809"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001809"
+      }
+    },
+    {
+      "istc_totqy": "320,436,727",
+      "tesstk_co": "2,053,208",
+      "distb_stock_co": "318,383,519",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002963"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002963"
+      }
+    },
+    {
+      "istc_totqy": "320,436,727",
+      "tesstk_co": "2,053,208",
+      "distb_stock_co": "318,383,519",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002963"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002963"
+      }
+    },
+    {
+      "istc_totqy": "310,327,033",
+      "tesstk_co": "-",
+      "distb_stock_co": "310,327,033",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001147"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001147"
+      }
+    },
+    {
+      "istc_totqy": "310,327,033",
+      "tesstk_co": "-",
+      "distb_stock_co": "310,327,033",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001147"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001147"
+      }
+    },
+    {
+      "istc_totqy": "318,383,519",
+      "tesstk_co": "3,958,365",
+      "distb_stock_co": "314,425,154",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003734"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003734"
+      }
+    },
+    {
+      "istc_totqy": "318,383,519",
+      "tesstk_co": "3,958,365",
+      "distb_stock_co": "314,425,154",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003734"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003734"
+      }
+    },
+    {
+      "istc_totqy": "318,383,519",
+      "tesstk_co": "-",
+      "distb_stock_co": "318,383,519",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002315"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002315"
+      }
+    },
+    {
+      "istc_totqy": "318,383,519",
+      "tesstk_co": "-",
+      "distb_stock_co": "318,383,519",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002315"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002315"
+      }
+    },
+    {
+      "istc_totqy": "314,425,154",
+      "tesstk_co": "2,450,000",
+      "distb_stock_co": "311,975,154",
+      "se": "보통주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002673"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "종류주식",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002673"
+      }
+    },
+    {
+      "istc_totqy": "314,425,154",
+      "tesstk_co": "2,450,000",
+      "distb_stock_co": "311,975,154",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002673"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002673"
+      }
+    }
+  ],
+  "BYC": [
+    {
+      "istc_totqy": "624,615",
+      "tesstk_co": "8",
+      "distb_stock_co": "624,607",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "istc_totqy": "215,385",
+      "tesstk_co": "5,400",
+      "distb_stock_co": "209,985",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "istc_totqy": "840,000",
+      "tesstk_co": "5,408",
+      "distb_stock_co": "834,592",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "istc_totqy": "624,615",
+      "tesstk_co": "8",
+      "distb_stock_co": "624,607",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "istc_totqy": "215,385",
+      "tesstk_co": "5,400",
+      "distb_stock_co": "209,985",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "istc_totqy": "840,000",
+      "tesstk_co": "5,408",
+      "distb_stock_co": "834,592",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "istc_totqy": "624,615",
+      "tesstk_co": "8",
+      "distb_stock_co": "624,607",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "istc_totqy": "215,385",
+      "tesstk_co": "5,400",
+      "distb_stock_co": "209,985",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "istc_totqy": "840,000",
+      "tesstk_co": "5,408",
+      "distb_stock_co": "834,592",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "istc_totqy": "624,615",
+      "tesstk_co": "8",
+      "distb_stock_co": "624,607",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "istc_totqy": "215,385",
+      "tesstk_co": "5,400",
+      "distb_stock_co": "209,985",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "istc_totqy": "840,000",
+      "tesstk_co": "5,408",
+      "distb_stock_co": "834,592",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "istc_totqy": "6,246,150",
+      "tesstk_co": "18,115",
+      "distb_stock_co": "6,228,035",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "istc_totqy": "2,153,850",
+      "tesstk_co": "67,341",
+      "distb_stock_co": "2,086,509",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "istc_totqy": "8,400,000",
+      "tesstk_co": "85,456",
+      "distb_stock_co": "8,314,544",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "istc_totqy": "6,246,150",
+      "tesstk_co": "80",
+      "distb_stock_co": "6,246,070",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "istc_totqy": "2,153,850",
+      "tesstk_co": "54,000",
+      "distb_stock_co": "2,099,850",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "istc_totqy": "8,400,000",
+      "tesstk_co": "54,080",
+      "distb_stock_co": "8,345,920",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "istc_totqy": "624,615",
+      "tesstk_co": "8",
+      "distb_stock_co": "624,607",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "istc_totqy": "215,385",
+      "tesstk_co": "5,400",
+      "distb_stock_co": "209,985",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "istc_totqy": "840,000",
+      "tesstk_co": "5,408",
+      "distb_stock_co": "834,592",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "istc_totqy": "6,246,150",
+      "tesstk_co": "3,080",
+      "distb_stock_co": "6,243,070",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "istc_totqy": "2,153,850",
+      "tesstk_co": "57,160",
+      "distb_stock_co": "2,096,690",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "istc_totqy": "8,400,000",
+      "tesstk_co": "60,240",
+      "distb_stock_co": "8,339,760",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "istc_totqy": "6,246,150",
+      "tesstk_co": "121,334",
+      "distb_stock_co": "6,124,816",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "istc_totqy": "2,153,850",
+      "tesstk_co": "102,300",
+      "distb_stock_co": "2,051,550",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "istc_totqy": "8,400,000",
+      "tesstk_co": "223,634",
+      "distb_stock_co": "8,176,366",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "istc_totqy": "6,246,150",
+      "tesstk_co": "37,546",
+      "distb_stock_co": "6,208,604",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "istc_totqy": "2,153,850",
+      "tesstk_co": "76,718",
+      "distb_stock_co": "2,077,132",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "istc_totqy": "8,400,000",
+      "tesstk_co": "114,264",
+      "distb_stock_co": "8,285,736",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "istc_totqy": "6,246,150",
+      "tesstk_co": "27,133",
+      "distb_stock_co": "6,219,017",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "istc_totqy": "2,153,850",
+      "tesstk_co": "76,718",
+      "distb_stock_co": "2,077,132",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "istc_totqy": "8,400,000",
+      "tesstk_co": "103,851",
+      "distb_stock_co": "8,296,149",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "istc_totqy": "6,246,150",
+      "tesstk_co": "78,244",
+      "distb_stock_co": "6,167,906",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    },
+    {
+      "istc_totqy": "2,153,850",
+      "tesstk_co": "76,718",
+      "distb_stock_co": "2,077,132",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    },
+    {
+      "istc_totqy": "8,400,000",
+      "tesstk_co": "154,962",
+      "distb_stock_co": "8,245,038",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    }
+  ],
+  "CJ": [
+    {
+      "istc_totqy": "29,176,998",
+      "tesstk_co": "2,118,542",
+      "distb_stock_co": "27,058,456",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "istc_totqy": "2,260,223",
+      "tesstk_co": "1,121",
+      "distb_stock_co": "2,259,102",
+      "se": "1우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "istc_totqy": "35,663,733",
+      "tesstk_co": "2,132,795",
+      "distb_stock_co": "33,530,938",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "2우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "3우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "istc_totqy": "4,226,512",
+      "tesstk_co": "13,132",
+      "distb_stock_co": "4,213,380",
+      "se": "4우선주\n(신형우선주)",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "istc_totqy": "29,176,998",
+      "tesstk_co": "2,118,542",
+      "distb_stock_co": "27,058,456",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "istc_totqy": "2,260,223",
+      "tesstk_co": "1,121",
+      "distb_stock_co": "2,259,102",
+      "se": "1우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "istc_totqy": "35,663,733",
+      "tesstk_co": "2,132,795",
+      "distb_stock_co": "33,530,938",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "2우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "3우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "istc_totqy": "4,226,512",
+      "tesstk_co": "13,132",
+      "distb_stock_co": "4,213,380",
+      "se": "4우선주\n(신형우선주)",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002777"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002777"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002304"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002304"
+      }
+    },
+    {
+      "istc_totqy": "29,176,998",
+      "tesstk_co": "2,118,543",
+      "distb_stock_co": "27,058,455",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "istc_totqy": "2,260,223",
+      "tesstk_co": "1,121",
+      "distb_stock_co": "2,259,102",
+      "se": "1우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "istc_totqy": "35,663,733",
+      "tesstk_co": "2,132,796",
+      "distb_stock_co": "33,530,937",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "2우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "3우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "istc_totqy": "4,226,512",
+      "tesstk_co": "13,132",
+      "distb_stock_co": "4,213,380",
+      "se": "4우선주\n(신형우선주)",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "istc_totqy": "29,176,998",
+      "tesstk_co": "2,118,543",
+      "distb_stock_co": "27,058,455",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "istc_totqy": "2,260,223",
+      "tesstk_co": "1,121",
+      "distb_stock_co": "2,259,102",
+      "se": "1우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "istc_totqy": "35,663,733",
+      "tesstk_co": "2,132,796",
+      "distb_stock_co": "33,530,937",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "2우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "3우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "istc_totqy": "4,226,512",
+      "tesstk_co": "13,132",
+      "distb_stock_co": "4,213,380",
+      "se": "4우선주\n(신형우선주)",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001598"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001598"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002720"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002720"
+      }
+    },
+    {
+      "istc_totqy": "29,176,998",
+      "tesstk_co": "2,118,544",
+      "distb_stock_co": "27,058,454",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "istc_totqy": "2,260,223",
+      "tesstk_co": "1,121",
+      "distb_stock_co": "2,259,102",
+      "se": "1우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "istc_totqy": "35,663,733",
+      "tesstk_co": "2,132,797",
+      "distb_stock_co": "33,530,936",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "2우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "3우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "istc_totqy": "4,226,512",
+      "tesstk_co": "13,132",
+      "distb_stock_co": "4,213,380",
+      "se": "4우선주\n(신형우선주)",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "istc_totqy": "29,176,998",
+      "tesstk_co": "2,118,543",
+      "distb_stock_co": "27,058,455",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "istc_totqy": "2,260,223",
+      "tesstk_co": "1,121",
+      "distb_stock_co": "2,259,102",
+      "se": "1우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "istc_totqy": "35,663,733",
+      "tesstk_co": "2,132,796",
+      "distb_stock_co": "33,530,937",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "2우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "3우선주",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "istc_totqy": "4,226,512",
+      "tesstk_co": "13,132",
+      "distb_stock_co": "4,213,380",
+      "se": "4우선주\n(신형우선주)",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002018"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002018"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001784"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001784"
+      }
+    }
+  ],
+  "CJ CGV": [
+    {
+      "istc_totqy": "122,431,562",
+      "tesstk_co": "-",
+      "distb_stock_co": "122,431,562",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240318000720"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240318000720"
+      }
+    },
+    {
+      "istc_totqy": "122,431,562",
+      "tesstk_co": "-",
+      "distb_stock_co": "122,431,562",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240318000720"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240318000720"
+      }
+    },
+    {
+      "istc_totqy": "47,729,394",
+      "tesstk_co": "-",
+      "distb_stock_co": "47,729,394",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814000906"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814000906"
+      }
+    },
+    {
+      "istc_totqy": "47,729,394",
+      "tesstk_co": "-",
+      "distb_stock_co": "47,729,394",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814000906"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814000906"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001685"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001685"
+      }
+    },
+    {
+      "istc_totqy": "122,431,285",
+      "tesstk_co": "-",
+      "distb_stock_co": "122,431,285",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001725"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001725"
+      }
+    },
+    {
+      "istc_totqy": "122,431,285",
+      "tesstk_co": "-",
+      "distb_stock_co": "122,431,285",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001725"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001725"
+      }
+    },
+    {
+      "istc_totqy": "165,580,153",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,580,153",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250321001474"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250321001474"
+      }
+    },
+    {
+      "istc_totqy": "165,580,153",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,580,153",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250321001474"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250321001474"
+      }
+    },
+    {
+      "istc_totqy": "165,579,451",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,579,451",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002343"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002343"
+      }
+    },
+    {
+      "istc_totqy": "165,579,451",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,579,451",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002343"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002343"
+      }
+    },
+    {
+      "istc_totqy": "122,432,139",
+      "tesstk_co": "-",
+      "distb_stock_co": "122,432,139",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000779"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000779"
+      }
+    },
+    {
+      "istc_totqy": "122,432,139",
+      "tesstk_co": "-",
+      "distb_stock_co": "122,432,139",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000779"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000779"
+      }
+    },
+    {
+      "istc_totqy": "165,580,003",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,580,003",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001657"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001657"
+      }
+    },
+    {
+      "istc_totqy": "165,580,003",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,580,003",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001657"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001657"
+      }
+    },
+    {
+      "istc_totqy": "165,581,556",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,581,556",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001114"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001114"
+      }
+    },
+    {
+      "istc_totqy": "165,581,556",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,581,556",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001114"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001114"
+      }
+    },
+    {
+      "istc_totqy": "165,580,680",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,580,680",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004366"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004366"
+      }
+    },
+    {
+      "istc_totqy": "165,580,680",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,580,680",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004366"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004366"
+      }
+    },
+    {
+      "istc_totqy": "165,580,269",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,580,269",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515000812"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515000812"
+      }
+    },
+    {
+      "istc_totqy": "165,580,269",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,580,269",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515000812"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515000812"
+      }
+    },
+    {
+      "istc_totqy": "165,581,235",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,581,235",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002119"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002119"
+      }
+    },
+    {
+      "istc_totqy": "165,581,235",
+      "tesstk_co": "-",
+      "distb_stock_co": "165,581,235",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002119"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002119"
+      }
+    }
+  ],
+  "CJ대한통운": [
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001789"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001789"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001789"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "(주1)",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001789"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,456",
+      "distb_stock_co": "19,944,888",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814001872"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814001872"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,456",
+      "distb_stock_co": "19,944,888",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814001872"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "(주1)",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814001872"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002229"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002229"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001729"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001729"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000953"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000953"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000953"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000953"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003694"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003694"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003694"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "주1)",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003694"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516002192"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516002192"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002639"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002639"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260316001417"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260316001417"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260316001417"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260316001417"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004310"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004310"
+      }
+    },
+    {
+      "istc_totqy": "22,812,344",
+      "tesstk_co": "2,867,215",
+      "distb_stock_co": "19,945,129",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004310"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004310"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002127"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002127"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001761"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001761"
+      }
+    }
+  ],
+  "CJ씨푸드": [
+    {
+      "istc_totqy": "35,931,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "35,931,000",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240319000639"
+      }
+    },
+    {
+      "istc_totqy": "200,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "200,000",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240319000639"
+      }
+    },
+    {
+      "istc_totqy": "36,131,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "36,131,000",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240319000639"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240319000639"
+      }
+    },
+    {
+      "istc_totqy": "35,931,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "35,931,000",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002488"
+      }
+    },
+    {
+      "istc_totqy": "200,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "200,000",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002488"
+      }
+    },
+    {
+      "istc_totqy": "36,131,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "36,131,000",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002488"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002488"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002315"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002315"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002359"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002359"
+      }
+    },
+    {
+      "istc_totqy": "35,931,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "35,931,000",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000808"
+      }
+    },
+    {
+      "istc_totqy": "200,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "200,000",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000808"
+      }
+    },
+    {
+      "istc_totqy": "36,131,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "36,131,000",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000808"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000808"
+      }
+    },
+    {
+      "istc_totqy": "35,931,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "35,931,000",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240827000314"
+      }
+    },
+    {
+      "istc_totqy": "200,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "200,000",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240827000314"
+      }
+    },
+    {
+      "istc_totqy": "36,131,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "36,131,000",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240827000314"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240827000314"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000862"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000862"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114000326"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114000326"
+      }
+    },
+    {
+      "istc_totqy": "35,931,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "35,931,000",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001443"
+      }
+    },
+    {
+      "istc_totqy": "200,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "200,000",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001443"
+      }
+    },
+    {
+      "istc_totqy": "36,131,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "36,131,000",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001443"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001443"
+      }
+    },
+    {
+      "istc_totqy": "35,931,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "35,931,000",
+      "se": "보통주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004057"
+      }
+    },
+    {
+      "istc_totqy": "200,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "200,000",
+      "se": "우선주",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004057"
+      }
+    },
+    {
+      "istc_totqy": "36,131,000",
+      "tesstk_co": "-",
+      "distb_stock_co": "36,131,000",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004057"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004057"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001623"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001623"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "합계",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001926"
+      }
+    },
+    {
+      "istc_totqy": "-",
+      "tesstk_co": "-",
+      "distb_stock_co": "-",
+      "se": "비고",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001926"
+      }
+    }
+  ]
+}

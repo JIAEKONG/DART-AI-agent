@@ -1,0 +1,155 @@
+{
+  "AK홀딩스": [
+    {
+      "corp_name": "AK홀딩스(주)",
+      "corp_name_eng": "AK Holdings, Inc.",
+      "stock_name": "AK홀딩스",
+      "stock_code": "006840",
+      "ceo_nm": "고준, 채형석, 채동석 (각자 대표이사)",
+      "corp_cls": "Y",
+      "adres": "서울특별시 마포구 양화로 188 -",
+      "induty_code": "64992",
+      "est_dt": "19701013",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "00125080"
+      }
+    }
+  ],
+  "BGF": [
+    {
+      "corp_name": "(주)비지에프",
+      "corp_name_eng": "BGF CO., LTD.",
+      "stock_name": "BGF",
+      "stock_code": "027410",
+      "ceo_nm": "홍정국",
+      "corp_cls": "Y",
+      "adres": "서울특별시 강남구 테헤란로 405",
+      "induty_code": "64992",
+      "est_dt": "19941201",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "00219097"
+      }
+    }
+  ],
+  "BGF리테일": [
+    {
+      "corp_name": "(주)비지에프리테일",
+      "corp_name_eng": "BGF retail CO., LTD.",
+      "stock_name": "BGF리테일",
+      "stock_code": "282330",
+      "ceo_nm": "민승배",
+      "corp_cls": "Y",
+      "adres": "서울특별시 강남구 테헤란로 405 BGF사옥",
+      "induty_code": "47122",
+      "est_dt": "20171101",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "01263022"
+      }
+    }
+  ],
+  "BNK금융지주": [
+    {
+      "corp_name": "(주)BNK금융지주",
+      "corp_name_eng": "BNK Financial Group Inc.",
+      "stock_name": "BNK금융지주",
+      "stock_code": "138930",
+      "ceo_nm": "빈대인",
+      "corp_cls": "Y",
+      "adres": "부산광역시 남구 문현금융로 30(문현동)",
+      "induty_code": "64992",
+      "est_dt": "20110315",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "00858364"
+      }
+    }
+  ],
+  "BYC": [
+    {
+      "corp_name": "(주)BYC",
+      "corp_name_eng": "BYC CO.,LTD",
+      "stock_name": "BYC",
+      "stock_code": "001460",
+      "ceo_nm": "김 대 환",
+      "corp_cls": "Y",
+      "adres": "서울특별시 영등포구 디지털로38길 27 (주)비와이씨",
+      "induty_code": "14120",
+      "est_dt": "19550513",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "00122579"
+      }
+    }
+  ],
+  "CJ": [
+    {
+      "corp_name": "CJ(주)",
+      "corp_name_eng": "CJ Corp.",
+      "stock_name": "CJ",
+      "stock_code": "001040",
+      "ceo_nm": "손경식, 김홍기",
+      "corp_cls": "Y",
+      "adres": "서울특별시 중구 소월로2길 12 (남대문로5가, CJ THE CENTER)",
+      "induty_code": "64992",
+      "est_dt": "19530801",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "00148540"
+      }
+    }
+  ],
+  "CJ CGV": [
+    {
+      "corp_name": "씨제이씨지브이(주)",
+      "corp_name_eng": "CJ CGV CO.,LTD.",
+      "stock_name": "CJ CGV",
+      "stock_code": "079160",
+      "ceo_nm": "정종민",
+      "corp_cls": "Y",
+      "adres": "서울특별시 용산구 한강대로23길 55 아이파크몰 6층(한강로동)",
+      "induty_code": "59141",
+      "est_dt": "19990330",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "00303873"
+      }
+    }
+  ],
+  "CJ대한통운": [
+    {
+      "corp_name": "씨제이대한통운(주)",
+      "corp_name_eng": "CJ Logistics Corporation ",
+      "stock_name": "CJ대한통운",
+      "stock_code": "000120",
+      "ceo_nm": "신영수, 민영학 (각자 대표)",
+      "corp_cls": "Y",
+      "adres": "서울특별시 종로구 종로5길 7(청진동) Tower 8",
+      "induty_code": "493",
+      "est_dt": "19301115",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "00113410"
+      }
+    }
+  ],
+  "CJ씨푸드": [
+    {
+      "corp_name": "CJ씨푸드(주)",
+      "corp_name_eng": "CJ SEAFOOD CORPORATION",
+      "stock_name": "CJ씨푸드",
+      "stock_code": "011150",
+      "ceo_nm": "김동환",
+      "corp_cls": "Y",
+      "adres": "경기도 성남시 중원구  둔촌대로388번길 32 (상대원동)",
+      "induty_code": "108",
+      "est_dt": "19760315",
+      "acc_mt": "12",
+      "_source": {
+        "corp_code": "00129013"
+      }
+    }
+  ]
+}

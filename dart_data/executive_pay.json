@@ -1,0 +1,1100 @@
+{
+  "AK홀딩스": [
+    {
+      "mendng_totamt": "3,031,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240321001157"
+      }
+    },
+    {
+      "mendng_totamt": "1,700,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002109"
+      }
+    },
+    {
+      "mendng_totamt": "1,163,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002751"
+      }
+    },
+    {
+      "mendng_totamt": "2,463,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002353"
+      }
+    },
+    {
+      "mendng_totamt": "3,198,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001263"
+      }
+    },
+    {
+      "mendng_totamt": "1,799,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003745"
+      }
+    },
+    {
+      "mendng_totamt": "1,245,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240514001362"
+      }
+    },
+    {
+      "mendng_totamt": "2,358,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001915"
+      }
+    },
+    {
+      "mendng_totamt": "2,868,000,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001489"
+      }
+    },
+    {
+      "mendng_totamt": "1,616,000,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004221"
+      }
+    },
+    {
+      "mendng_totamt": "1,032,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002659"
+      }
+    },
+    {
+      "mendng_totamt": "2,176,000,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002655"
+      }
+    }
+  ],
+  "BGF": [
+    {
+      "mendng_totamt": "1,562,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003440"
+      }
+    },
+    {
+      "mendng_totamt": "518,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003410"
+      }
+    },
+    {
+      "mendng_totamt": "274,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003379"
+      }
+    },
+    {
+      "mendng_totamt": "794,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003419"
+      }
+    },
+    {
+      "mendng_totamt": "1,696,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001407"
+      }
+    },
+    {
+      "mendng_totamt": "521,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002686"
+      }
+    },
+    {
+      "mendng_totamt": "276,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001626"
+      }
+    },
+    {
+      "mendng_totamt": "798,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002453"
+      }
+    },
+    {
+      "mendng_totamt": "1,680,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000777"
+      }
+    },
+    {
+      "mendng_totamt": "532,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003441"
+      }
+    },
+    {
+      "mendng_totamt": "280,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001898"
+      }
+    },
+    {
+      "mendng_totamt": "781,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001758"
+      }
+    }
+  ],
+  "BGF리테일": [
+    {
+      "mendng_totamt": "4,260,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003349"
+      }
+    },
+    {
+      "mendng_totamt": "504,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003272"
+      }
+    },
+    {
+      "mendng_totamt": "231,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003218"
+      }
+    },
+    {
+      "mendng_totamt": "809,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003317"
+      }
+    },
+    {
+      "mendng_totamt": "2,972,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318000733"
+      }
+    },
+    {
+      "mendng_totamt": "608,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002592"
+      }
+    },
+    {
+      "mendng_totamt": "216,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001498"
+      }
+    },
+    {
+      "mendng_totamt": "1,049,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002321"
+      }
+    },
+    {
+      "mendng_totamt": "2,642,000,000",
+      "nmpr": "6",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000829"
+      }
+    },
+    {
+      "mendng_totamt": "759,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814002458"
+      }
+    },
+    {
+      "mendng_totamt": "372,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001820"
+      }
+    },
+    {
+      "mendng_totamt": "1,152,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001662"
+      }
+    }
+  ],
+  "BNK금융지주": [
+    {
+      "mendng_totamt": "1,170,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001564"
+      }
+    },
+    {
+      "mendng_totamt": "575,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20231114001681"
+      }
+    },
+    {
+      "mendng_totamt": "289,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002799"
+      }
+    },
+    {
+      "mendng_totamt": "865,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002098"
+      }
+    },
+    {
+      "mendng_totamt": "1,388,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001176"
+      }
+    },
+    {
+      "mendng_totamt": "771,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814004056"
+      }
+    },
+    {
+      "mendng_totamt": "453,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001809"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002963"
+      }
+    },
+    {
+      "mendng_totamt": "1,506,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001147"
+      }
+    },
+    {
+      "mendng_totamt": "850,000,000",
+      "nmpr": "8",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003734"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002315"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002673"
+      }
+    }
+  ],
+  "BYC": [
+    {
+      "mendng_totamt": "706,302,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "mendng_totamt": "351,877,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "mendng_totamt": "147,638,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "mendng_totamt": "557,510,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "mendng_totamt": "706,197,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "mendng_totamt": "369,636,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "mendng_totamt": "198,356,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "mendng_totamt": "536,917,000",
+      "nmpr": "10",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "mendng_totamt": "723,718,000",
+      "nmpr": "11",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "mendng_totamt": "376,696,000",
+      "nmpr": "11",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "mendng_totamt": "176,617,000",
+      "nmpr": "11",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "mendng_totamt": "548,857,000",
+      "nmpr": "11",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    }
+  ],
+  "CJ": [
+    {
+      "mendng_totamt": "5,626,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "mendng_totamt": "1,537,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002777"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002304"
+      }
+    },
+    {
+      "mendng_totamt": "8,961,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "mendng_totamt": "1,603,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001598"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002720"
+      }
+    },
+    {
+      "mendng_totamt": "6,850,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "mendng_totamt": "3,146,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002018"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001784"
+      }
+    }
+  ],
+  "CJ CGV": [
+    {
+      "mendng_totamt": "2,352,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240318000720"
+      }
+    },
+    {
+      "mendng_totamt": "767,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814000906"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001685"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001725"
+      }
+    },
+    {
+      "mendng_totamt": "1,678,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250321001474"
+      }
+    },
+    {
+      "mendng_totamt": "914,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002343"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000779"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001657"
+      }
+    },
+    {
+      "mendng_totamt": "1,594,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001114"
+      }
+    },
+    {
+      "mendng_totamt": "528,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004366"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515000812"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002119"
+      }
+    }
+  ],
+  "CJ대한통운": [
+    {
+      "mendng_totamt": "5,963,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001789"
+      }
+    },
+    {
+      "mendng_totamt": "1,307,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814001872"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002229"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001729"
+      }
+    },
+    {
+      "mendng_totamt": "3,850,000,000",
+      "nmpr": "6",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000953"
+      }
+    },
+    {
+      "mendng_totamt": "893,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003694"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516002192"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002639"
+      }
+    },
+    {
+      "mendng_totamt": "3,083,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260316001417"
+      }
+    },
+    {
+      "mendng_totamt": "1,642,000,000",
+      "nmpr": "7",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004310"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002127"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001761"
+      }
+    }
+  ],
+  "CJ씨푸드": [
+    {
+      "mendng_totamt": "477,000,000",
+      "nmpr": "4",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240319000639"
+      }
+    },
+    {
+      "mendng_totamt": "167,000,000",
+      "nmpr": "4",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002488"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002315"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002359"
+      }
+    },
+    {
+      "mendng_totamt": "873,000,000",
+      "nmpr": "4",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000808"
+      }
+    },
+    {
+      "mendng_totamt": "177,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240827000314"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000862"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114000326"
+      }
+    },
+    {
+      "mendng_totamt": "281,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001443"
+      }
+    },
+    {
+      "mendng_totamt": "131,000,000",
+      "nmpr": "5",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004057"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001623"
+      }
+    },
+    {
+      "mendng_totamt": "-",
+      "nmpr": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001926"
+      }
+    }
+  ]
+}

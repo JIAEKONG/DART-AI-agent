@@ -1,0 +1,3310 @@
+{
+  "AK홀딩스": [
+    {
+      "rgllbr_co": "19",
+      "jan_salary_am": "101,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "20",
+      "fyer_salary_totamt": "2,017,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240321001157"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "70,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "209,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240321001157"
+      }
+    },
+    {
+      "rgllbr_co": "18",
+      "jan_salary_am": "51,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "19",
+      "fyer_salary_totamt": "973,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002109"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "32,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "98,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002109"
+      }
+    },
+    {
+      "rgllbr_co": "18",
+      "jan_salary_am": "33,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "19",
+      "fyer_salary_totamt": "632,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002751"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "20,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "61,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002751"
+      }
+    },
+    {
+      "rgllbr_co": "19",
+      "jan_salary_am": "80,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "20",
+      "fyer_salary_totamt": "1,510,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002353"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "53,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "159,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002353"
+      }
+    },
+    {
+      "rgllbr_co": "18",
+      "jan_salary_am": "103,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "18",
+      "fyer_salary_totamt": "1,849,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001263"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "75,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "225,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001263"
+      }
+    },
+    {
+      "rgllbr_co": "20",
+      "jan_salary_am": "59,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "20",
+      "fyer_salary_totamt": "1,175,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003745"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "40,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "121,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003745"
+      }
+    },
+    {
+      "rgllbr_co": "20",
+      "jan_salary_am": "39,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "20",
+      "fyer_salary_totamt": "797,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240514001362"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "27,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "82,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240514001362"
+      }
+    },
+    {
+      "rgllbr_co": "19",
+      "jan_salary_am": "83,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "19",
+      "fyer_salary_totamt": "1,690,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001915"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "62,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "186,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001915"
+      }
+    },
+    {
+      "rgllbr_co": "22",
+      "jan_salary_am": "93,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "22",
+      "fyer_salary_totamt": "2,159,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001489"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "47,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "4",
+      "fyer_salary_totamt": "203,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001489"
+      }
+    },
+    {
+      "rgllbr_co": "20",
+      "jan_salary_am": "54,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "20",
+      "fyer_salary_totamt": "1,114,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004221"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "34,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "101,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004221"
+      }
+    },
+    {
+      "rgllbr_co": "18",
+      "jan_salary_am": "28,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "18",
+      "fyer_salary_totamt": "493,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002659"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "20,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "3",
+      "fyer_salary_totamt": "60,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002659"
+      }
+    },
+    {
+      "rgllbr_co": "23",
+      "jan_salary_am": "68,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "남",
+      "sm": "23",
+      "fyer_salary_totamt": "1,635,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002655"
+      }
+    },
+    {
+      "rgllbr_co": "3",
+      "jan_salary_am": "33,000,000",
+      "fo_bbm": "지주사업",
+      "sexdstn": "여",
+      "sm": "4",
+      "fyer_salary_totamt": "135,000,000",
+      "_source": {
+        "corp_code": "00125080",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002655"
+      }
+    }
+  ],
+  "BGF": [
+    {
+      "rgllbr_co": "41",
+      "jan_salary_am": "90,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "44",
+      "fyer_salary_totamt": "4,267,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003440"
+      }
+    },
+    {
+      "rgllbr_co": "12",
+      "jan_salary_am": "54,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "12",
+      "fyer_salary_totamt": "674,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003440"
+      }
+    },
+    {
+      "rgllbr_co": "39",
+      "jan_salary_am": "38,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "43",
+      "fyer_salary_totamt": "1,658,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003410"
+      }
+    },
+    {
+      "rgllbr_co": "13",
+      "jan_salary_am": "22,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "13",
+      "fyer_salary_totamt": "280,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003410"
+      }
+    },
+    {
+      "rgllbr_co": "39",
+      "jan_salary_am": "21,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "43",
+      "fyer_salary_totamt": "903,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003379"
+      }
+    },
+    {
+      "rgllbr_co": "13",
+      "jan_salary_am": "11,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "13",
+      "fyer_salary_totamt": "138,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003379"
+      }
+    },
+    {
+      "rgllbr_co": "39",
+      "jan_salary_am": "60,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "42",
+      "fyer_salary_totamt": "2,546,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003419"
+      }
+    },
+    {
+      "rgllbr_co": "13",
+      "jan_salary_am": "35,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "13",
+      "fyer_salary_totamt": "453,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003419"
+      }
+    },
+    {
+      "rgllbr_co": "36",
+      "jan_salary_am": "102,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "38",
+      "fyer_salary_totamt": "4,186,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001407"
+      }
+    },
+    {
+      "rgllbr_co": "14",
+      "jan_salary_am": "66,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "15",
+      "fyer_salary_totamt": "821,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001407"
+      }
+    },
+    {
+      "rgllbr_co": "39",
+      "jan_salary_am": "39,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "42",
+      "fyer_salary_totamt": "1,693,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002686"
+      }
+    },
+    {
+      "rgllbr_co": "12",
+      "jan_salary_am": "28,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "12",
+      "fyer_salary_totamt": "321,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002686"
+      }
+    },
+    {
+      "rgllbr_co": "40",
+      "jan_salary_am": "21,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "43",
+      "fyer_salary_totamt": "917,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001626"
+      }
+    },
+    {
+      "rgllbr_co": "12",
+      "jan_salary_am": "15,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "12",
+      "fyer_salary_totamt": "176,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001626"
+      }
+    },
+    {
+      "rgllbr_co": "38",
+      "jan_salary_am": "58,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "41",
+      "fyer_salary_totamt": "2,461,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002453"
+      }
+    },
+    {
+      "rgllbr_co": "12",
+      "jan_salary_am": "42,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "12",
+      "fyer_salary_totamt": "504,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002453"
+      }
+    },
+    {
+      "rgllbr_co": "37",
+      "jan_salary_am": "104,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "41",
+      "fyer_salary_totamt": "4,111,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000777"
+      }
+    },
+    {
+      "rgllbr_co": "12",
+      "jan_salary_am": "74,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "13",
+      "fyer_salary_totamt": "988,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000777"
+      }
+    },
+    {
+      "rgllbr_co": "37",
+      "jan_salary_am": "39,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "39",
+      "fyer_salary_totamt": "1,512,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003441"
+      }
+    },
+    {
+      "rgllbr_co": "12",
+      "jan_salary_am": "33,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "13",
+      "fyer_salary_totamt": "438,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003441"
+      }
+    },
+    {
+      "rgllbr_co": "38",
+      "jan_salary_am": "21,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "40",
+      "fyer_salary_totamt": "816,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001898"
+      }
+    },
+    {
+      "rgllbr_co": "13",
+      "jan_salary_am": "18,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "14",
+      "fyer_salary_totamt": "253,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001898"
+      }
+    },
+    {
+      "rgllbr_co": "37",
+      "jan_salary_am": "39,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "남",
+      "sm": "39",
+      "fyer_salary_totamt": "2,216,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001758"
+      }
+    },
+    {
+      "rgllbr_co": "13",
+      "jan_salary_am": "33,000,000",
+      "fo_bbm": "투 자",
+      "sexdstn": "여",
+      "sm": "14",
+      "fyer_salary_totamt": "622,000,000",
+      "_source": {
+        "corp_code": "00219097",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001758"
+      }
+    }
+  ],
+  "BGF리테일": [
+    {
+      "rgllbr_co": "1,853",
+      "jan_salary_am": "70,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,291",
+      "fyer_salary_totamt": "126,921,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003349"
+      }
+    },
+    {
+      "rgllbr_co": "750",
+      "jan_salary_am": "52,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "1,012",
+      "fyer_salary_totamt": "36,124,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240412003349"
+      }
+    },
+    {
+      "rgllbr_co": "1,779",
+      "jan_salary_am": "30,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,191",
+      "fyer_salary_totamt": "53,994,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003272"
+      }
+    },
+    {
+      "rgllbr_co": "679",
+      "jan_salary_am": "23,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "911",
+      "fyer_salary_totamt": "15,495,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20240412003272"
+      }
+    },
+    {
+      "rgllbr_co": "1,775",
+      "jan_salary_am": "16,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,161",
+      "fyer_salary_totamt": "28,734,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003218"
+      }
+    },
+    {
+      "rgllbr_co": "682",
+      "jan_salary_am": "12,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "868",
+      "fyer_salary_totamt": "8,197,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20240412003218"
+      }
+    },
+    {
+      "rgllbr_co": "1,810",
+      "jan_salary_am": "47,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,286",
+      "fyer_salary_totamt": "84,193,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003317"
+      }
+    },
+    {
+      "rgllbr_co": "687",
+      "jan_salary_am": "36,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "972",
+      "fyer_salary_totamt": "24,322,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20240412003317"
+      }
+    },
+    {
+      "rgllbr_co": "1,820",
+      "jan_salary_am": "74,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,320",
+      "fyer_salary_totamt": "135,304,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318000733"
+      }
+    },
+    {
+      "rgllbr_co": "785",
+      "jan_salary_am": "54,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "1,059",
+      "fyer_salary_totamt": "41,431,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318000733"
+      }
+    },
+    {
+      "rgllbr_co": "1,804",
+      "jan_salary_am": "31,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,291",
+      "fyer_salary_totamt": "58,049,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002592"
+      }
+    },
+    {
+      "rgllbr_co": "744",
+      "jan_salary_am": "23,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "1,034",
+      "fyer_salary_totamt": "18,051,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002592"
+      }
+    },
+    {
+      "rgllbr_co": "1,841",
+      "jan_salary_am": "17,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,285",
+      "fyer_salary_totamt": "31,192,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001498"
+      }
+    },
+    {
+      "rgllbr_co": "759",
+      "jan_salary_am": "13,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "1,044",
+      "fyer_salary_totamt": "9,698,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001498"
+      }
+    },
+    {
+      "rgllbr_co": "1,813",
+      "jan_salary_am": "32,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,325",
+      "fyer_salary_totamt": "89,355,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002321"
+      }
+    },
+    {
+      "rgllbr_co": "778",
+      "jan_salary_am": "27,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "1,046",
+      "fyer_salary_totamt": "27,969,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002321"
+      }
+    },
+    {
+      "rgllbr_co": "1,799",
+      "jan_salary_am": "77,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,157",
+      "fyer_salary_totamt": "140,403,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000829"
+      }
+    },
+    {
+      "rgllbr_co": "797",
+      "jan_salary_am": "56,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "973",
+      "fyer_salary_totamt": "45,076,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318000829"
+      }
+    },
+    {
+      "rgllbr_co": "1,800",
+      "jan_salary_am": "32,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,200",
+      "fyer_salary_totamt": "58,700,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814002458"
+      }
+    },
+    {
+      "rgllbr_co": "785",
+      "jan_salary_am": "24,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "1,009",
+      "fyer_salary_totamt": "18,929,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814002458"
+      }
+    },
+    {
+      "rgllbr_co": "1,808",
+      "jan_salary_am": "18,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,287",
+      "fyer_salary_totamt": "41,297,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001820"
+      }
+    },
+    {
+      "rgllbr_co": "792",
+      "jan_salary_am": "13,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "1,085",
+      "fyer_salary_totamt": "13,522,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001820"
+      }
+    },
+    {
+      "rgllbr_co": "1,816",
+      "jan_salary_am": "48,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "남",
+      "sm": "2,178",
+      "fyer_salary_totamt": "87,211,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001662"
+      }
+    },
+    {
+      "rgllbr_co": "801",
+      "jan_salary_am": "36,000,000",
+      "fo_bbm": "편의점",
+      "sexdstn": "여",
+      "sm": "994",
+      "fyer_salary_totamt": "28,623,000,000",
+      "_source": {
+        "corp_code": "01263022",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001662"
+      }
+    }
+  ],
+  "BNK금융지주": [
+    {
+      "rgllbr_co": "98",
+      "jan_salary_am": "172,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "106",
+      "fyer_salary_totamt": "18,400,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001564"
+      }
+    },
+    {
+      "rgllbr_co": "5",
+      "jan_salary_am": "99,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "15",
+      "fyer_salary_totamt": "1,216,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001564"
+      }
+    },
+    {
+      "rgllbr_co": "105",
+      "jan_salary_am": "100,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "114",
+      "fyer_salary_totamt": "10,810,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20231114001681"
+      }
+    },
+    {
+      "rgllbr_co": "4",
+      "jan_salary_am": "54,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "12",
+      "fyer_salary_totamt": "615,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20231114001681"
+      }
+    },
+    {
+      "rgllbr_co": "89",
+      "jan_salary_am": "66,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "101",
+      "fyer_salary_totamt": "7,126,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002799"
+      }
+    },
+    {
+      "rgllbr_co": "4",
+      "jan_salary_am": "32,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "12",
+      "fyer_salary_totamt": "374,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002799"
+      }
+    },
+    {
+      "rgllbr_co": "107",
+      "jan_salary_am": "132,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "115",
+      "fyer_salary_totamt": "14,178,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002098"
+      }
+    },
+    {
+      "rgllbr_co": "5",
+      "jan_salary_am": "74,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "14",
+      "fyer_salary_totamt": "879,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002098"
+      }
+    },
+    {
+      "rgllbr_co": "95",
+      "jan_salary_am": "161,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "104",
+      "fyer_salary_totamt": "17,320,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001176"
+      }
+    },
+    {
+      "rgllbr_co": "8",
+      "jan_salary_am": "123,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "16",
+      "fyer_salary_totamt": "2,135,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250318001176"
+      }
+    },
+    {
+      "rgllbr_co": "106",
+      "jan_salary_am": "84,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "115",
+      "fyer_salary_totamt": "11,864,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814004056"
+      }
+    },
+    {
+      "rgllbr_co": "8",
+      "jan_salary_am": "63,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "17",
+      "fyer_salary_totamt": "1,136,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814004056"
+      }
+    },
+    {
+      "rgllbr_co": "105",
+      "jan_salary_am": "47,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "112",
+      "fyer_salary_totamt": "7,607,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001809"
+      }
+    },
+    {
+      "rgllbr_co": "8",
+      "jan_salary_am": "34,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "18",
+      "fyer_salary_totamt": "619,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001809"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002963"
+      }
+    },
+    {
+      "rgllbr_co": "92",
+      "jan_salary_am": "177,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "103",
+      "fyer_salary_totamt": "18,250,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001147"
+      }
+    },
+    {
+      "rgllbr_co": "9",
+      "jan_salary_am": "132,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "18",
+      "fyer_salary_totamt": "2,213,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001147"
+      }
+    },
+    {
+      "rgllbr_co": "94",
+      "jan_salary_am": "95,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "남",
+      "sm": "105",
+      "fyer_salary_totamt": "9,842,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003734"
+      }
+    },
+    {
+      "rgllbr_co": "9",
+      "jan_salary_am": "74,000,000",
+      "fo_bbm": "금융업",
+      "sexdstn": "여",
+      "sm": "15",
+      "fyer_salary_totamt": "1,183,000,000",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003734"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002315"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00858364",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002673"
+      }
+    }
+  ],
+  "BYC": [
+    {
+      "rgllbr_co": "44",
+      "jan_salary_am": "58,911,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "46",
+      "fyer_salary_totamt": "2,709,895,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "rgllbr_co": "16",
+      "jan_salary_am": "41,439,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "16",
+      "fyer_salary_totamt": "663,028,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "rgllbr_co": "160",
+      "jan_salary_am": "46,808,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "175",
+      "fyer_salary_totamt": "8,191,338,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "rgllbr_co": "284",
+      "jan_salary_am": "29,873,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "287",
+      "fyer_salary_totamt": "8,573,533,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "rgllbr_co": "26",
+      "jan_salary_am": "54,924,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "32",
+      "fyer_salary_totamt": "1,757,577,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "32,127,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "32,127,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240314001341"
+      }
+    },
+    {
+      "rgllbr_co": "43",
+      "jan_salary_am": "28,005,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "48",
+      "fyer_salary_totamt": "1,344,243,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "rgllbr_co": "16",
+      "jan_salary_am": "21,258,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "16",
+      "fyer_salary_totamt": "340,129,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "rgllbr_co": "160",
+      "jan_salary_am": "22,672,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "176",
+      "fyer_salary_totamt": "3,990,204,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "rgllbr_co": "284",
+      "jan_salary_am": "14,371,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "288",
+      "fyer_salary_totamt": "4,138,756,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "rgllbr_co": "27",
+      "jan_salary_am": "27,619,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "33",
+      "fyer_salary_totamt": "911,440,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002323"
+      }
+    },
+    {
+      "rgllbr_co": "44",
+      "jan_salary_am": "13,957,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "49",
+      "fyer_salary_totamt": "683,922,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "rgllbr_co": "15",
+      "jan_salary_am": "9,902,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "17",
+      "fyer_salary_totamt": "168,343,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "rgllbr_co": "165",
+      "jan_salary_am": "11,145,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "180",
+      "fyer_salary_totamt": "2,006,213,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "rgllbr_co": "287",
+      "jan_salary_am": "7,117,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "290",
+      "fyer_salary_totamt": "2,063,987,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "rgllbr_co": "27",
+      "jan_salary_am": "13,401,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "33",
+      "fyer_salary_totamt": "442,262,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001931"
+      }
+    },
+    {
+      "rgllbr_co": "43",
+      "jan_salary_am": "45,938,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "45",
+      "fyer_salary_totamt": "2,062,695,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "rgllbr_co": "16",
+      "jan_salary_am": "31,153,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "16",
+      "fyer_salary_totamt": "498,445,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "rgllbr_co": "163",
+      "jan_salary_am": "33,655,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "178",
+      "fyer_salary_totamt": "5,990,558,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "rgllbr_co": "285",
+      "jan_salary_am": "21,688,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "289",
+      "fyer_salary_totamt": "6,267,737,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "rgllbr_co": "26",
+      "jan_salary_am": "41,020,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "32",
+      "fyer_salary_totamt": "1,312,648,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "23,924,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "23,924,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001919"
+      }
+    },
+    {
+      "rgllbr_co": "30",
+      "jan_salary_am": "58,746,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "32",
+      "fyer_salary_totamt": "1,879,856,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "rgllbr_co": "19",
+      "jan_salary_am": "43,473,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "19",
+      "fyer_salary_totamt": "825,996,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "rgllbr_co": "148",
+      "jan_salary_am": "46,811,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "166",
+      "fyer_salary_totamt": "7,770,567,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "rgllbr_co": "295",
+      "jan_salary_am": "28,500,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "298",
+      "fyer_salary_totamt": "8,493,009,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "rgllbr_co": "32",
+      "jan_salary_am": "50,237,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "40",
+      "fyer_salary_totamt": "2,009,482,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "34,260,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "34,260,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250320001026"
+      }
+    },
+    {
+      "rgllbr_co": "39",
+      "jan_salary_am": "30,527,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "41",
+      "fyer_salary_totamt": "1,251,602,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "rgllbr_co": "18",
+      "jan_salary_am": "21,256,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "18",
+      "fyer_salary_totamt": "382,608,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "rgllbr_co": "148",
+      "jan_salary_am": "23,216,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "165",
+      "fyer_salary_totamt": "3,830,602,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "rgllbr_co": "283",
+      "jan_salary_am": "14,804,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "286",
+      "fyer_salary_totamt": "4,233,969,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "rgllbr_co": "32",
+      "jan_salary_am": "25,698,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "38",
+      "fyer_salary_totamt": "976,518,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "16,980,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "16,980,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003577"
+      }
+    },
+    {
+      "rgllbr_co": "43",
+      "jan_salary_am": "14,646,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "45",
+      "fyer_salary_totamt": "659,062,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "rgllbr_co": "17",
+      "jan_salary_am": "10,229,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "17",
+      "fyer_salary_totamt": "173,894,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "rgllbr_co": "150",
+      "jan_salary_am": "11,698,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "168",
+      "fyer_salary_totamt": "1,965,332,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "rgllbr_co": "290",
+      "jan_salary_am": "7,271,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "293",
+      "fyer_salary_totamt": "2,130,392,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "rgllbr_co": "30",
+      "jan_salary_am": "13,292,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "35",
+      "fyer_salary_totamt": "465,203,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "8,490,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "8,490,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001285"
+      }
+    },
+    {
+      "rgllbr_co": "38",
+      "jan_salary_am": "46,683,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "40",
+      "fyer_salary_totamt": "1,867,338,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "rgllbr_co": "18",
+      "jan_salary_am": "33,001,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "18",
+      "fyer_salary_totamt": "594,023,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "rgllbr_co": "151",
+      "jan_salary_am": "34,821,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "169",
+      "fyer_salary_totamt": "5,884,758,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "rgllbr_co": "284",
+      "jan_salary_am": "22,294,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "287",
+      "fyer_salary_totamt": "6,398,481,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "rgllbr_co": "31",
+      "jan_salary_am": "39,364,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "38",
+      "fyer_salary_totamt": "1,495,815,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "25,770,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "25,770,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002070"
+      }
+    },
+    {
+      "rgllbr_co": "30",
+      "jan_salary_am": "60,325,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "32",
+      "fyer_salary_totamt": "1,930,407,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "rgllbr_co": "18",
+      "jan_salary_am": "51,585,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "18",
+      "fyer_salary_totamt": "928,533,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "rgllbr_co": "148",
+      "jan_salary_am": "48,851,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "167",
+      "fyer_salary_totamt": "8,158,132,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "rgllbr_co": "284",
+      "jan_salary_am": "31,501,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "287",
+      "fyer_salary_totamt": "9,040,929,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "rgllbr_co": "33",
+      "jan_salary_am": "58,063,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "39",
+      "fyer_salary_totamt": "2,264,491,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "37,831,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "37,831,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260319001175"
+      }
+    },
+    {
+      "rgllbr_co": "31",
+      "jan_salary_am": "29,505,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "32",
+      "fyer_salary_totamt": "944,171,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "rgllbr_co": "19",
+      "jan_salary_am": "24,000,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "19",
+      "fyer_salary_totamt": "456,006,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "rgllbr_co": "146",
+      "jan_salary_am": "23,834,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "165",
+      "fyer_salary_totamt": "3,932,643,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "rgllbr_co": "296",
+      "jan_salary_am": "14,784,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "299",
+      "fyer_salary_totamt": "4,420,543,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "rgllbr_co": "32",
+      "jan_salary_am": "26,553,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "40",
+      "fyer_salary_totamt": "1,062,120,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "18,599,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "18,599,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814003258"
+      }
+    },
+    {
+      "rgllbr_co": "30",
+      "jan_salary_am": "14,847,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "32",
+      "fyer_salary_totamt": "475,101,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "rgllbr_co": "19",
+      "jan_salary_am": "11,971,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "19",
+      "fyer_salary_totamt": "227,448,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "rgllbr_co": "144",
+      "jan_salary_am": "12,054,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "163",
+      "fyer_salary_totamt": "1,964,869,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "rgllbr_co": "296",
+      "jan_salary_am": "7,339,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "299",
+      "fyer_salary_totamt": "2,194,507,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "rgllbr_co": "30",
+      "jan_salary_am": "13,814,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "38",
+      "fyer_salary_totamt": "524,934,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "9,300,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "9,300,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002239"
+      }
+    },
+    {
+      "rgllbr_co": "31",
+      "jan_salary_am": "44,230,000",
+      "fo_bbm": "본사",
+      "sexdstn": "남",
+      "sm": "32",
+      "fyer_salary_totamt": "1,415,346,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    },
+    {
+      "rgllbr_co": "19",
+      "jan_salary_am": "35,965,000",
+      "fo_bbm": "본사",
+      "sexdstn": "여",
+      "sm": "19",
+      "fyer_salary_totamt": "683,330,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    },
+    {
+      "rgllbr_co": "146",
+      "jan_salary_am": "35,783,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "남",
+      "sm": "165",
+      "fyer_salary_totamt": "5,904,239,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    },
+    {
+      "rgllbr_co": "285",
+      "jan_salary_am": "22,792,000",
+      "fo_bbm": "섬유",
+      "sexdstn": "여",
+      "sm": "288",
+      "fyer_salary_totamt": "6,564,237,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    },
+    {
+      "rgllbr_co": "32",
+      "jan_salary_am": "40,324,000",
+      "fo_bbm": "건설",
+      "sexdstn": "남",
+      "sm": "40",
+      "fyer_salary_totamt": "1,612,951,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    },
+    {
+      "rgllbr_co": "1",
+      "jan_salary_am": "27,899,000",
+      "fo_bbm": "건설",
+      "sexdstn": "여",
+      "sm": "1",
+      "fyer_salary_totamt": "27,899,000",
+      "_source": {
+        "corp_code": "00122579",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002080"
+      }
+    }
+  ],
+  "CJ": [
+    {
+      "rgllbr_co": "50",
+      "jan_salary_am": "690,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "남",
+      "sm": "50",
+      "fyer_salary_totamt": "34,354,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "rgllbr_co": "15",
+      "jan_salary_am": "182,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "여",
+      "sm": "17",
+      "fyer_salary_totamt": "3,161,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001996"
+      }
+    },
+    {
+      "rgllbr_co": "46",
+      "jan_salary_am": "182,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "남",
+      "sm": "52",
+      "fyer_salary_totamt": "9,356,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "rgllbr_co": "16",
+      "jan_salary_am": "60,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "여",
+      "sm": "18",
+      "fyer_salary_totamt": "1,086,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002962"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002777"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002304"
+      }
+    },
+    {
+      "rgllbr_co": "45",
+      "jan_salary_am": "1,036,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "남",
+      "sm": "45",
+      "fyer_salary_totamt": "46,222,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "rgllbr_co": "16",
+      "jan_salary_am": "185,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "여",
+      "sm": "17",
+      "fyer_salary_totamt": "3,034,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250325000721"
+      }
+    },
+    {
+      "rgllbr_co": "43",
+      "jan_salary_am": "199,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "남",
+      "sm": "43",
+      "fyer_salary_totamt": "9,117,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "rgllbr_co": "15",
+      "jan_salary_am": "65,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "여",
+      "sm": "16",
+      "fyer_salary_totamt": "1,047,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003065"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516001598"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002720"
+      }
+    },
+    {
+      "rgllbr_co": "48",
+      "jan_salary_am": "944,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "남",
+      "sm": "48",
+      "fyer_salary_totamt": "44,131,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "rgllbr_co": "15",
+      "jan_salary_am": "177,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "여",
+      "sm": "16",
+      "fyer_salary_totamt": "3,001,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001509"
+      }
+    },
+    {
+      "rgllbr_co": "45",
+      "jan_salary_am": "432,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "남",
+      "sm": "45",
+      "fyer_salary_totamt": "19,722,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "rgllbr_co": "17",
+      "jan_salary_am": "69,000,000",
+      "fo_bbm": "총괄",
+      "sexdstn": "여",
+      "sm": "18",
+      "fyer_salary_totamt": "1,228,000,000",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814001942"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002018"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00148540",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001784"
+      }
+    }
+  ],
+  "CJ CGV": [
+    {
+      "rgllbr_co": "1,698",
+      "jan_salary_am": "57,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "남",
+      "sm": "2,101",
+      "fyer_salary_totamt": "28,370,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240318000720"
+      }
+    },
+    {
+      "rgllbr_co": "2,036",
+      "jan_salary_am": "47,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "여",
+      "sm": "2,583",
+      "fyer_salary_totamt": "28,337,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240318000720"
+      }
+    },
+    {
+      "rgllbr_co": "1,664",
+      "jan_salary_am": "29,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "남",
+      "sm": "1,965",
+      "fyer_salary_totamt": "14,344,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814000906"
+      }
+    },
+    {
+      "rgllbr_co": "1,937",
+      "jan_salary_am": "24,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "여",
+      "sm": "2,335",
+      "fyer_salary_totamt": "14,209,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814000906"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515001685"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001725"
+      }
+    },
+    {
+      "rgllbr_co": "1,496",
+      "jan_salary_am": "60,000,000",
+      "fo_bbm": "영화\n상영업",
+      "sexdstn": "남",
+      "sm": "1,974",
+      "fyer_salary_totamt": "28,988,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250321001474"
+      }
+    },
+    {
+      "rgllbr_co": "1,810",
+      "jan_salary_am": "49,000,000",
+      "fo_bbm": "영화\n상영업",
+      "sexdstn": "여",
+      "sm": "2,339",
+      "fyer_salary_totamt": "29,641,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250321001474"
+      }
+    },
+    {
+      "rgllbr_co": "1,519",
+      "jan_salary_am": "30,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "남",
+      "sm": "1,788",
+      "fyer_salary_totamt": "15,160,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002343"
+      }
+    },
+    {
+      "rgllbr_co": "1,909",
+      "jan_salary_am": "25,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "여",
+      "sm": "2,258",
+      "fyer_salary_totamt": "14,939,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814002343"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000779"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114001657"
+      }
+    },
+    {
+      "rgllbr_co": "1,305",
+      "jan_salary_am": "63,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "남",
+      "sm": "1,904",
+      "fyer_salary_totamt": "25,013,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001114"
+      }
+    },
+    {
+      "rgllbr_co": "1,531",
+      "jan_salary_am": "51,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "여",
+      "sm": "2,192",
+      "fyer_salary_totamt": "26,524,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260318001114"
+      }
+    },
+    {
+      "rgllbr_co": "1,153",
+      "jan_salary_am": "29,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "남",
+      "sm": "1,402",
+      "fyer_salary_totamt": "12,624,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004366"
+      }
+    },
+    {
+      "rgllbr_co": "1,403",
+      "jan_salary_am": "26,000,000",
+      "fo_bbm": "영화상영업",
+      "sexdstn": "여",
+      "sm": "1,685",
+      "fyer_salary_totamt": "14,397,000,000",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004366"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515000812"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00303873",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114002119"
+      }
+    }
+  ],
+  "CJ대한통운": [
+    {
+      "rgllbr_co": "5,809",
+      "jan_salary_am": "79,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "남",
+      "sm": "5,969",
+      "fyer_salary_totamt": "470,887,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001789"
+      }
+    },
+    {
+      "rgllbr_co": "1,032",
+      "jan_salary_am": "56,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "여",
+      "sm": "1,072",
+      "fyer_salary_totamt": "60,061,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240320001789"
+      }
+    },
+    {
+      "rgllbr_co": "5,779",
+      "jan_salary_am": "34,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "남",
+      "sm": "5,933",
+      "fyer_salary_totamt": "199,108,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814001872"
+      }
+    },
+    {
+      "rgllbr_co": "999",
+      "jan_salary_am": "27,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "여",
+      "sm": "1,033",
+      "fyer_salary_totamt": "27,959,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814001872"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002229"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114001729"
+      }
+    },
+    {
+      "rgllbr_co": "5,744",
+      "jan_salary_am": "82,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "남",
+      "sm": "5,895",
+      "fyer_salary_totamt": "482,164,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000953"
+      }
+    },
+    {
+      "rgllbr_co": "1,073",
+      "jan_salary_am": "63,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "여",
+      "sm": "1,107",
+      "fyer_salary_totamt": "69,644,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000953"
+      }
+    },
+    {
+      "rgllbr_co": "5,761",
+      "jan_salary_am": "36,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "남",
+      "sm": "5,920",
+      "fyer_salary_totamt": "212,847,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003694"
+      }
+    },
+    {
+      "rgllbr_co": "1,047",
+      "jan_salary_am": "29,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "여",
+      "sm": "1,081",
+      "fyer_salary_totamt": "30,929,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240814003694"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516002192"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114002639"
+      }
+    },
+    {
+      "rgllbr_co": "5,595",
+      "jan_salary_am": "78,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "남",
+      "sm": "5,771",
+      "fyer_salary_totamt": "449,369,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260316001417"
+      }
+    },
+    {
+      "rgllbr_co": "1,032",
+      "jan_salary_am": "60,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "여",
+      "sm": "1,076",
+      "fyer_salary_totamt": "64,757,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260316001417"
+      }
+    },
+    {
+      "rgllbr_co": "5,678",
+      "jan_salary_am": "37,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "남",
+      "sm": "5,842",
+      "fyer_salary_totamt": "216,635,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004310"
+      }
+    },
+    {
+      "rgllbr_co": "1,057",
+      "jan_salary_am": "29,000,000",
+      "fo_bbm": "CL사업, 택배사업, 글로벌사업, 건설사업",
+      "sexdstn": "여",
+      "sm": "1,096",
+      "fyer_salary_totamt": "32,219,000,000",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004310"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515002127"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00113410",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001761"
+      }
+    }
+  ],
+  "CJ씨푸드": [
+    {
+      "rgllbr_co": "173",
+      "jan_salary_am": "42,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "남",
+      "sm": "177",
+      "fyer_salary_totamt": "10,666,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240319000639"
+      }
+    },
+    {
+      "rgllbr_co": "162",
+      "jan_salary_am": "28,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "여",
+      "sm": "178",
+      "fyer_salary_totamt": "6,706,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11011",
+        "rcept_no": "20240319000639"
+      }
+    },
+    {
+      "rgllbr_co": "180",
+      "jan_salary_am": "30,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "남",
+      "sm": "185",
+      "fyer_salary_totamt": "5,460,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002488"
+      }
+    },
+    {
+      "rgllbr_co": "152",
+      "jan_salary_am": "20,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "여",
+      "sm": "179",
+      "fyer_salary_totamt": "3,515,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11012",
+        "rcept_no": "20230814002488"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11013",
+        "rcept_no": "20230515002315"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2023",
+        "reprt_code": "11014",
+        "rcept_no": "20231114002359"
+      }
+    },
+    {
+      "rgllbr_co": "170",
+      "jan_salary_am": "66,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "남",
+      "sm": "180",
+      "fyer_salary_totamt": "11,546,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000808"
+      }
+    },
+    {
+      "rgllbr_co": "151",
+      "jan_salary_am": "46,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "여",
+      "sm": "188",
+      "fyer_salary_totamt": "8,314,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11011",
+        "rcept_no": "20250317000808"
+      }
+    },
+    {
+      "rgllbr_co": "166",
+      "jan_salary_am": "29,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "남",
+      "sm": "174",
+      "fyer_salary_totamt": "5,115,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240827000314"
+      }
+    },
+    {
+      "rgllbr_co": "160",
+      "jan_salary_am": "20,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "여",
+      "sm": "187",
+      "fyer_salary_totamt": "3,597,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11012",
+        "rcept_no": "20240827000314"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11013",
+        "rcept_no": "20240516000862"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2024",
+        "reprt_code": "11014",
+        "rcept_no": "20241114000326"
+      }
+    },
+    {
+      "rgllbr_co": "175",
+      "jan_salary_am": "56,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "남",
+      "sm": "183",
+      "fyer_salary_totamt": "12,591,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001443"
+      }
+    },
+    {
+      "rgllbr_co": "149",
+      "jan_salary_am": "31,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "여",
+      "sm": "177",
+      "fyer_salary_totamt": "8,512,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11011",
+        "rcept_no": "20260323001443"
+      }
+    },
+    {
+      "rgllbr_co": "171",
+      "jan_salary_am": "32,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "남",
+      "sm": "176",
+      "fyer_salary_totamt": "5,691,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004057"
+      }
+    },
+    {
+      "rgllbr_co": "164",
+      "jan_salary_am": "23,000,000",
+      "fo_bbm": "전 부문",
+      "sexdstn": "여",
+      "sm": "176",
+      "fyer_salary_totamt": "3,973,000,000",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11012",
+        "rcept_no": "20250814004057"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11013",
+        "rcept_no": "20250515001623"
+      }
+    },
+    {
+      "rgllbr_co": "-",
+      "jan_salary_am": "-",
+      "fo_bbm": "-",
+      "sexdstn": null,
+      "sm": "-",
+      "fyer_salary_totamt": "-",
+      "_source": {
+        "corp_code": "00129013",
+        "bsns_year": "2025",
+        "reprt_code": "11014",
+        "rcept_no": "20251114001926"
+      }
+    }
+  ]
+}
